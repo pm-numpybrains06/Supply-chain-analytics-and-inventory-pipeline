@@ -1,6 +1,6 @@
 # 📊 Supply Chain Analytics and Inventory pipeline
 ## 📷 Dashboard Preview
-![Dashboard Preview](supply chain and inventory.pdf)
+![Dashboard Preview](supply chain.png)
 End-to-end supply chain analytics project built using Python, MySQL, and Power BI. The project implements a complete ETL pipeline and interactive dashboard to analyze orders, profitability, logistics performance, and delivery risks with AI-driven insights.
 
 ---
