@@ -35,8 +35,4 @@ End-to-end supply chain analytics project built using Python, MySQL, and Power B
 * **Power Query** (The Muscle 💪)
 * **Passion for Design** (The Heart ❤️)
 
----
 
-> **"Data is the new oil, but this dashboard is the refinery!"** 🔥
-
-**Does this version have enough "spark" for your GitHub, or should we add even more flair?**
